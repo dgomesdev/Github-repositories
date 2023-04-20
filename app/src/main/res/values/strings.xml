@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github repositories</string>
+    <string name="username">Username</string>
+    <string name="confirm">Confirm</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+</resources>
